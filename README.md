@@ -1,5 +1,6 @@
 Program in 8051 to generate a 200 µs delay using Timer 0 in Mode 1 and toggle Port 0.1
-
+NAME: PREETHI S
+REG NO: 212224060195
 AIM
 
 To write program in 8051 to generate a 200 µs delay using Timer 0 in Mode 1 and toggle Port 0.1
@@ -29,7 +30,8 @@ PROGRAM:
 
 OUTPUT:
 
-<img width="1222" height="712" alt="image" src="https://github.com/user-attachments/assets/aa0bb1a6-8041-4b11-bb07-67d8991f0e00" />
+<img width="1280" height="720" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/133a3a60-ffa7-4b0a-9e68-f7e6fe612f58" />
+
 
 
 RESULT:
